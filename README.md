@@ -4,7 +4,7 @@
 
 ## Структура проекта
 ├── main.py  
-├── WearAI.ipynb
+├── WearAI.ipynb  
 ├── FindCLIP.ipynb
 
 ### Файлы
